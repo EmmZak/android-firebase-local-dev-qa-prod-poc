@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240343304764",
+    "project_id": "vue-vite-firebase-poc-dev",
+    "storage_bucket": "vue-vite-firebase-poc-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240343304764:android:bf5f9d4bfead570c36d139",
+        "android_client_info": {
+          "package_name": "com.firebase.localdevqaprod.poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1j0NCuc7smhKkC3Pa6L_-ZtqI_3QJrdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
